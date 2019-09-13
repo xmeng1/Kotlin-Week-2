@@ -1,0 +1,21 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+      <option name="FORMATTER" value="1" />
+      <option name="REPLACE_CASE_ARROW_WITH_UNICODE_CHAR" value="true" />
+      <option name="REPLACE_MAP_ARROW_WITH_UNICODE_CHAR" value="true" />
+      <option name="REPLACE_FOR_GENERATOR_ARROW_WITH_UNICODE_CHAR" value="true" />
+    </ScalaCodeStyleSettings>
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+    </TypeScriptCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    </codeStyleSettings>
+    <codeStyleSettings language="XML">
+      <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
