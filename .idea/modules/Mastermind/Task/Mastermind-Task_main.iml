@@ -38,7 +38,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../../../Mastermind/Task/build/classes/java/main" />
+    <output url="file://$MODULE_DIR$/../../../../Mastermind/Task/out/production/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../Mastermind/Task/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../Mastermind/Task/src" isTestSource="false" />

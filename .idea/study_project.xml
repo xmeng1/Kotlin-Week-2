@@ -68,7 +68,7 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="1228" />
-                                      <option name="offset" value="159" />
+                                      <option name="offset" value="531" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="" />
@@ -167,6 +167,20 @@
                                 <option name="text" value="qF70Z5yXEeiogBK51jO1Gg" />
                                 <option name="trackChanges" value="true" />
                                 <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/mastermind/sumAsExtension.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/mastermind/sumAsExtension.kt" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
                               </TaskFile>
                             </value>
                           </entry>
